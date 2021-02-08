@@ -862,8 +862,8 @@ body {
     position: static; 
     bottom: 0; 
     background: url('images/footer-bg.png') no-repeat;
-    background-size: auto;
-    height: 312px;
+    background-size: cover;
+    height: 316px;
 }
 .footer__pic {
     position: relative;
@@ -874,7 +874,7 @@ body {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    height: 312px;
+    height: 316px;
     padding: 80px 360px 0px 360px;
 }
 .footer__title {
